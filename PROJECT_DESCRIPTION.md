@@ -100,3 +100,5 @@ The retail CSV dataset includes customer support ticket data encompassing instru
 * Azure Deployment
 
     * Deploy the application on Azure ML, ensuring it is scalable and easy to maintain.
+
+    _courtesy_: [projectpro.io- build customer support agent using azureml and openai](https://www.projectpro.io/project/hackerday-project/project-title/customer-support-agent-using-azureml-and-openai)
