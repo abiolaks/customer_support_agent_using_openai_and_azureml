@@ -108,17 +108,18 @@ __This case study demonstrates how AI-driven automation solves critical pain poi
 
 
 
-What will you learn?
+### Concept and Learnings from the Project
 
-Recognize the challenges in managing high volumes of customer support tickets and the need for automation
-Learn to set up and configure an Azure ML workspace for managing and tracking machine learning projects
-Implement and run AI workflows using Azure ML pipelines
-Explore how to use Open AI Embeddings to convert text data into embeddings for efficient retrieval
-Understand the role of vector databases in storing and retrieving embeddings
-Implement a vector database to store and retrieve text embeddings efficiently
-Learn the Retrieval-Augmented Generation (RAG) principles and how it combines retrieval and generation techniques
-Understand how to generate responses using LLMs based on retrieved information
-Explore techniques for generating multiple response candidates and selecting the best one
-Build a user-friendly demo application using Streamlit to showcase the AI assistant's capabilities
-Create a Feedback loop to improve the response based on prompt improvements
-Learn the steps involved in deploying the AI application on Azure
+* Recognize the challenges in managing high volumes of customer support tickets and the need for automation
+* Learn to set up and configure an Azure ML workspace for managing and tracking machine learning projects
+* Implement and run AI workflows using Azure ML pipelines
+* Explore how to use Open AI Embeddings to convert text data into embeddings for efficient retrieval
+* Understand the role of vector databases in storing and retrieving embeddings
+* Implement a vector database to store and retrieve text embeddings efficiently
+* Learn the Retrieval-Augmented Generation (RAG) principles and how it combines retrieval and generation techniques
+* Understand how to generate responses using LLMs based on retrieved information
+* Explore techniques for generating multiple response candidates and selecting the best one
+* Build a user-friendly demo application using Streamlit to showcase the AI assistant's capabilities
+* Create a Feedback loop to improve the response based on prompt improvements
+* Learn the steps involved in deploying the AI application on Azure
+
